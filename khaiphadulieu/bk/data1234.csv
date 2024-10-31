@@ -1,0 +1,925 @@
+Màu Mắt,Kiểu Mắt,Màu Tóc Tự Nhiên,Màu Da,Kiểu Mũi,Kiểu Tóc,Kiểu Môi,Râu Tóc Lông,Chủng Tộc
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Lượn sóng,Dày,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Thưa,Uc
+Đen,Nhỏ,Đen,Trắng,Thấp,Xoăn,Mỏng,Rậm,Au
+Lam,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Vừa,Thưa,Uc
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,Au
+Vàng,To,Vàng,Nâu Vàng,Cao,Xoăn,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,Uc
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,Trắng,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,Phi
+Đen,To,Đỏ,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Phi
+Lam,To,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,To,Vàng,Nâu Sậm,Cao,Xoăn,Dày,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,Uc
+Đen,To,Lam,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,Trắng,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Rậm,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,To,Vàng,Nâu Sậm,Thấp,Xoăn,Vừa,Rậm,Phi
+Đen,To,Vàng,Nâu Vàng,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,Uc
+Đen,Nhỏ,Vàng,Nâu Sậm,Thấp,Thẳng,Dày,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,Phi
+Đen,To,Đen,Trắng,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,To,Vàng,Nâu Sậm,Cao,Xoăn,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,Trắng,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,To,Vàng,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,Uc
+Đen,Nhỏ,Đỏ,Nâu Vàng,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,To,Đỏ,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,Phi
+Lam,To,Vàng,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Au
+Lam,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Uc
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Thưa,Phi
+Lam,To,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Dày,Rậm,Uc
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Thưa,Uc
+Xám,To,Đen,Nâu Sậm,Cao,Thẳng,Dày,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,Au
+Vàng,Nhỏ,Đen,Trắng sáng,Cao,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Rậm,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Rậm,Phi
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,Uc
+Xám,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Vừa,Rậm,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Lam,Nâu Sậm,Thấp,Thẳng,Vừa,Thưa,Uc
+Lam,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Vừa,Rậm,Uc
+Vàng,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Vừa,Rậm,Phi
+Vàng,To,Vàng,Trắng sáng,Thấp,Thẳng,Dày,Thưa,Au
+Lam,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Dày,Rậm,Phi
+Lam,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Rậm,Phi
+Đen,Nhỏ,Vàng,Nâu Vàng,Cao,Xoăn,Vừa,Rậm,Uc
+Đen,Nhỏ,Đen,Trắng,Thấp,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Dày,Rậm,Uc
+Xám,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Mỏng,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,Uc
+Đen,To,Vàng,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,Au
+Xám,To,Đen,Nâu Sậm,Thấp,Lượn sóng,Dày,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Lượn sóng,Dày,Thưa,Uc
+Đen,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Mỏng,Rậm,A
+Đen,Nhỏ,Đỏ,Nâu Vàng,Cao,Thẳng,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Rậm,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Thưa,A
+Đen,To,Đen,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Vàng,Nâu Sậm,Thấp,Xoăn,Mỏng,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Rậm,Uc
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Rậm,Uc
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Uc
+Xám,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,Phi
+Xám,To,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Mỏng,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,Phi
+Xám,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,Phi
+Đen,Nhỏ,Vàng,Nâu Sậm,Cao,Xoăn,Vừa,Rậm,Phi
+Đen,To,Lam,Nâu Vàng,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Thưa,Uc
+Đen,To,Vàng,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đỏ,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,Au
+Xám,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,To,Vàng,Trắng sáng,Thấp,Thẳng,Mỏng,Rậm,Au
+Vàng,Nhỏ,Đỏ,Nâu Vàng,Cao,Lượn sóng,Vừa,Thưa,Uc
+Xám,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,Au
+Đen,To,Đen,Nâu Sậm,Cao,Lượn sóng,Mỏng,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,Uc
+Xám,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Thưa,Uc
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Rậm,Uc
+Đen,Nhỏ,Vàng,Nâu Vàng,Cao,Xoăn,Dày,Thưa,Uc
+Đen,To,Vàng,Nâu Sậm,Thấp,Xoăn,Vừa,Rậm,Uc
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Thưa,Phi
+Vàng,To,Đen,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Trắng,Cao,Thẳng,Dày,Thưa,Au
+Đen,To,Đen,Nâu Sậm,Cao,Thẳng,Dày,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,A
+Đỏ,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,To,Vàng,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Mỏng,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đỏ,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,Au
+Vàng,To,Vàng,Nâu Vàng,Cao,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Lam,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,Trắng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,A
+Đen,To,Vàng,Trắng sáng,Thấp,Thẳng,Vừa,Rậm,Au
+Xám,Nhỏ,Đỏ,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,A
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,Au
+Lam,To,Đỏ,Trắng,Cao,Xoăn,Dày,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Trắng sáng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Trắng,Thấp,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Dày,Rậm,A
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Cao,Xoăn,Vừa,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Sậm,Cao,Xoăn,Dày,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,A
+Đen,To,Đen,Trắng,Cao,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Rậm,Uc
+Đen,To,Vàng,Nâu Sậm,Thấp,Lượn sóng,Vừa,Rậm,Uc
+Đen,To,Đen,Nâu Sậm,Cao,Xoăn,Mỏng,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Mỏng,Thưa,A
+Đen,Nhỏ,Đỏ,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Rậm,Uc
+Xám,To,Đen,Nâu Sậm,Cao,Thẳng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,Trắng,Cao,Thẳng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,A
+Xám,To,Đỏ,Trắng sáng,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,Uc
+Lam,To,Đen,Trắng sáng,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,Uc
+Lam,Nhỏ,Vàng,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,Au
+Vàng,To,Đen,Trắng,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Thưa,Phi
+Đen,To,Đỏ,Trắng sáng,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,To,Vàng,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Xám,To,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Xám,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Dày,Thưa,A
+Đen,Nhỏ,Vàng,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Xám,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,Uc
+Đen,To,Vàng,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,To,Vàng,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Trắng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Sậm,Cao,Lượn sóng,Vừa,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Dày,Thưa,Phi
+Xám,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Sậm,Cao,Lượn sóng,Vừa,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,A
+Xám,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Cao,Thẳng,Vừa,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Vừa,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,Uc
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,A
+Đen,To,Vàng,Trắng sáng,Thấp,Xoăn,Dày,Rậm,Au
+Lam,Nhỏ,Đen,Trắng,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Vàng,Nâu Sậm,Cao,Xoăn,Dày,Rậm,Uc
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Dày,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Vừa,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Trắng sáng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đỏ,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,A
+Đen,To,Đen,Trắng,Thấp,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,Nâu Vàng,Cao,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,Uc
+Vàng,Nhỏ,Vàng,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,A
+Đen,To,Đen,Trắng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Lam,Nhỏ,Đen,Nâu Sậm,Cao,Lượn sóng,Mỏng,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Rậm,Au
+Vàng,To,Đen,Trắng sáng,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,A
+Xám,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,Phi
+Xám,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đen,Trắng,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,To,Đen,Trắng,Cao,Thẳng,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,Nhỏ,Vàng,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Trắng,Cao,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,A
+Lam,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Rậm,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Uc
+Lam,To,Đen,Trắng sáng,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Dày,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Lam,To,Vàng,Trắng sáng,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Đen,To,Vàng,Trắng,Cao,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Vàng,Trắng sáng,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Lam,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đỏ,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Dày,Rậm,Au
+Lam,Nhỏ,Đen,Nâu Sậm,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Vàng,Nâu Sậm,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,To,Vàng,Trắng sáng,Thấp,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,A
+Lam,To,Vàng,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Au
+Xám,Nhỏ,Đen,Trắng sáng,Cao,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Thưa,A
+Lam,To,Vàng,Nâu Vàng,Cao,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Cao,Xoăn,Vừa,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Rậm,A
+Lam,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Mỏng,Thưa,A
+Xám,Nhỏ,Vàng,Trắng,Cao,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,Trắng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Rậm,A
+Đen,To,Vàng,Trắng sáng,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Vàng,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,A
+Lam,Nhỏ,Đen,Nâu Sậm,Cao,Lượn sóng,Vừa,Thưa,Au
+Lam,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Xoăn,Dày,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,Trắng sáng,Cao,Thẳng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,Au
+Đỏ,To,Đen,Nâu Sậm,Cao,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Đỏ,Nâu Vàng,Cao,Lượn sóng,Mỏng,Rậm,Au
+Xám,To,Vàng,Trắng sáng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,Trắng sáng,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,A
+Đen,To,Vàng,Nâu Vàng,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Lượn sóng,Mỏng,Thưa,Uc
+Đen,To,Đen,Trắng sáng,Thấp,Xoăn,Dày,Rậm,Au
+Lam,To,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Thưa,Au
+Lam,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Xoăn,Dày,Thưa,Au
+Đen,To,Vàng,Trắng,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Lượn sóng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,To,Vàng,Nâu Sậm,Cao,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Thưa,Uc
+Đen,To,Đen,Trắng,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Lam,Nhỏ,Vàng,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,Au
+Tím,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Lam,To,Vàng,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Xoăn,Dày,Rậm,A
+Vàng,To,Vàng,Trắng sáng,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Dày,Rậm,Au
+Lam,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,Au
+Lam,Nhỏ,Đen,Trắng sáng,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Vừa,Thưa,A
+Lam,To,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,Trắng sáng,Cao,Thẳng,Vừa,Thưa,Au
+Vàng,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Vàng,Trắng sáng,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Đen,Trắng sáng,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,Trắng,Thấp,Xoăn,Dày,Thưa,A
+Lam,To,Vàng,Trắng,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Lượn sóng,Dày,Rậm,A
+Đen,To,Vàng,Trắng,Thấp,Xoăn,Dày,Rậm,Au
+Lam,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Dày,Thưa,Au
+Lam,Nhỏ,Đen,Trắng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Đen,To,Đen,Trắng,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,To,Đen,Trắng sáng,Thấp,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Vừa,Thưa,Uc
+Đen,To,Đen,Trắng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Dày,Rậm,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,Trắng,Thấp,Lượn sóng,Vừa,Rậm,A
+Xám,To,Vàng,Trắng sáng,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Thưa,Phi
+Đen,To,Vàng,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,A
+Đen,To,Vàng,Nâu Sậm,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,To,Vàng,Nâu Vàng,Thấp,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,Trắng,Thấp,Lượn sóng,Dày,Thưa,A
+Xám,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Dày,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Vàng,Trắng,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,To,Vàng,Trắng sáng,Thấp,Thẳng,Mỏng,Rậm,Au
+Lam,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,Au
+Lam,To,Đen,Trắng sáng,Cao,Thẳng,Vừa,Thưa,Au
+Vàng,Nhỏ,Đen,Trắng sáng,Cao,Thẳng,Dày,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,To,Đen,Trắng sáng,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Cao,Thẳng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Mỏng,Rậm,A
+Lam,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,Au
+Xám,Nhỏ,Đen,Trắng sáng,Thấp,Lượn sóng,Dày,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,A
+Lam,To,Đen,Nâu Sậm,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,A
+Đen,To,Đen,Trắng,Thấp,Xoăn,Mỏng,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Rậm,A
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Rậm,Phi
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Vừa,Thưa,Phi
+Lam,Nhỏ,Vàng,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Lượn sóng,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Vừa,Rậm,A
+Đen,To,Đen,Trắng,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Mỏng,Rậm,A
+Đen,To,Vàng,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,A
+Lam,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Xám,To,Vàng,Nâu Sậm,Thấp,Thẳng,Vừa,Rậm,Au
+Lam,Nhỏ,Đen,Trắng,Thấp,Xoăn,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Mỏng,Rậm,A
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Dày,Rậm,A
+Đen,To,Đỏ,Trắng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,Au
+Xám,To,Đen,Nâu Vàng,Cao,Thẳng,Dày,Thưa,Au
+Đen,To,Vàng,Trắng,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,A
+Lam,To,Đen,Trắng,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Vàng,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,Au
+Xám,Nhỏ,Vàng,Trắng sáng,Cao,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Vừa,Thưa,Phi
+Đen,Nhỏ,Vàng,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Vừa,Thưa,Phi
+Lam,To,Đen,Trắng sáng,Thấp,Thẳng,Dày,Thưa,Au
+Đen,To,Đỏ,Trắng,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đỏ,Trắng,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,A
+Đen,To,Vàng,Trắng,Cao,Xoăn,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Dày,Thưa,A
+Đen,Nhỏ,Đỏ,Trắng,Thấp,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,Au
+Xám,To,Đen,Nâu Vàng,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,A
+Đen,To,Đen,Trắng sáng,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Mỏng,Thưa,Phi
+Đen,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Rậm,A
+Đỏ,To,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,A
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,A
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Vàng,Trắng sáng,Cao,Xoăn,Mỏng,Thưa,Au
+Đen,To,Đen,Trắng sáng,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Vừa,Rậm,A
+Xám,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Đỏ,Trắng sáng,Cao,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Lượn sóng,Mỏng,Rậm,A
+Đen,To,Vàng,Trắng sáng,Cao,Thẳng,Dày,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Vừa,Rậm,Phi
+Đen,To,Vàng,Trắng sáng,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Tím,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,A
+Xám,To,Vàng,Trắng sáng,Thấp,Xoăn,Vừa,Rậm,Au
+Đen,To,Đen,Trắng,Cao,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Trắng,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Vàng,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,Trắng,Thấp,Xoăn,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,Nâu Sậm,Thấp,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Lượn sóng,Vừa,Thưa,A
+Lam,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,To,Đen,Trắng,Cao,Lượn sóng,Vừa,Thưa,A
+Lam,To,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Đen,Trắng sáng,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Rậm,A
+Đen,To,Đen,Nâu Sậm,Cao,Lượn sóng,Vừa,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,A
+Đen,To,Vàng,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,A
+Lam,To,Đen,Trắng sáng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,A
+Lam,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Đen,To,Đỏ,Trắng,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Lam,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Thưa,Uc
+Lục,To,Vàng,Nâu Sậm,Cao,Thẳng,Mỏng,Rậm,Au
+Xám,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,Au
+Đen,To,Vàng,Trắng sáng,Thấp,Xoăn,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,To,Đỏ,Nâu Sậm,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Lục,To,Vàng,Nâu Sậm,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Đen,To,Đen,Trắng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,A
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Đỏ,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,Au
+Lam,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Rậm,Uc
+Lam,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,Trắng,Cao,Thẳng,Vừa,Thưa,A
+Lam,To,Vàng,Nâu Vàng,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,To,Đen,Trắng,Thấp,Thẳng,Dày,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,A
+Đen,To,Đen,Trắng sáng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,A
+Đen,To,Đen,Trắng sáng,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Xoăn,Vừa,Rậm,A
+Đen,To,Đen,Trắng,Thấp,Xoăn,Vừa,Rậm,A
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,Nâu Sậm,Cao,Xoăn,Mỏng,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Đen,To,Đen,Trắng,Cao,Xoăn,Mỏng,Thưa,A
+Đen,Nhỏ,Vàng,Nâu Sậm,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Dày,Thưa,A
+Đen,To,Vàng,Trắng sáng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Thưa,Phi
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Vừa,Rậm,Phi
+Đen,To,Đen,Trắng,Cao,Lượn sóng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Xoăn,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Vàng,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,Trắng,Cao,Lượn sóng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,To,Đen,Trắng,Thấp,Xoăn,Dày,Rậm,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,A
+Đen,To,Vàng,Nâu Vàng,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đỏ,Trắng sáng,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Vàng,Nâu Sậm,Cao,Xoăn,Vừa,Thưa,Au
+Vàng,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Mỏng,Thưa,Au
+Xám,To,Đen,Trắng sáng,Cao,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Dày,Thưa,Phi
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Dày,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Lượn sóng,Mỏng,Rậm,Uc
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Thẳng,Vừa,Rậm,Au
+Lam,Nhỏ,Đen,Trắng sáng,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Xoăn,Dày,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Thưa,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Vừa,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Dày,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Rậm,A
+Đen,To,Đỏ,Nâu Vàng,Thấp,Lượn sóng,Dày,Rậm,Au
+Xám,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Xoăn,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Dày,Rậm,A
+Xám,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đen,Trắng sáng,Thấp,Lượn sóng,Dày,Thưa,Au
+Đen,To,Vàng,Nâu Vàng,Thấp,Xoăn,Vừa,Rậm,Au
+Lam,Nhỏ,Đen,Trắng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Đen,Trắng,Cao,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,Trắng sáng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,Trắng sáng,Thấp,Xoăn,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Xoăn,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Sậm,Thấp,Thẳng,Vừa,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,A
+Đen,To,Đen,Trắng,Thấp,Lượn sóng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Lượn sóng,Vừa,Rậm,Uc
+Đen,To,Đen,Trắng sáng,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Dày,Thưa,Phi
+Đen,To,Đen,Nâu Vàng,Cao,Xoăn,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Lam,To,Vàng,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,Au
+Đen,To,Đen,Trắng sáng,Thấp,Xoăn,Vừa,Thưa,Au
+Lam,Nhỏ,Đen,Trắng sáng,Thấp,Thẳng,Vừa,Rậm,Au
+Lam,Nhỏ,Đen,Trắng sáng,Thấp,Thẳng,Dày,Rậm,Au
+Xám,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Vừa,Thưa,Au
+Lục,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,A
+Đen,To,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Mỏng,Thưa,Phi
+Đen,Nhỏ,Đỏ,Trắng,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Dày,Thưa,A
+Đen,To,Vàng,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,To,Vàng,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Mỏng,Thưa,A
+Lam,To,Vàng,Trắng sáng,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Vừa,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Trắng sáng,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,To,Vàng,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,Au
+Xám,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Đen,To,Đen,Nâu Sậm,Cao,Thẳng,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,Trắng sáng,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Vàng,Trắng,Thấp,Xoăn,Dày,Rậm,Au
+Lam,To,Vàng,Nâu Vàng,Cao,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,Nâu Sậm,Cao,Lượn sóng,Mỏng,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,Trắng,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,Trắng sáng,Thấp,Xoăn,Vừa,Thưa,Au
+Xám,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Rậm,Au
+Xám,Nhỏ,Đen,Nâu Sậm,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Mỏng,Rậm,Uc
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Lượn sóng,Vừa,Thưa,Uc
+Đen,Vừa,Đen,Trắng,Cao,Lượn sóng,Vừa,Thưa,A
+Đen,Vừa,Đen,Nâu Sậm,Cao,Lượn sóng,Vừa,Rậm,Uc
+Đen,To,Đen,Trắng,Cao,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Lượn sóng,Mỏng,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Thưa,Phi
+Lam,Nhỏ,Đen,Trắng,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Lượn sóng,Vừa,Rậm,A
+Đen,To,Đen,Nâu Sậm,Cao,Xoăn,Vừa,Thưa,Phi
+Lam,Nhỏ,Đen,Trắng sáng,Cao,Thẳng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Vàng,Trắng,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Dày,Thưa,A
+Đen,Vừa,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Thưa,A
+Đen,Vừa,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Vàng,Nâu Sậm,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đỏ,Nhỏ,Đen,Nâu Vàng,Cao,Thẳng,Vừa,Rậm,Au
+Đen,To,Đỏ,Nâu Sậm,Thấp,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,Nâu Vàng,Cao,Xoăn,Dày,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,A
+Đen,To,Đen,Nâu Vàng,Thấp,Xoăn,Mỏng,Rậm,A
+Đen,To,Vàng,Trắng,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,Trắng sáng,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Thẳng,Dày,Rậm,A
+Lam,Nhỏ,Đen,Trắng sáng,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,Vừa,Vàng,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,Au
+Xám,To,Đen,Trắng,Cao,Thẳng,Vừa,Thưa,Au
+Vàng,Nhỏ,Đen,Trắng sáng,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Cao,Lượn sóng,Dày,Thưa,A
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Thẳng,Vừa,Rậm,A
+Lục,Nhỏ,Đen,Trắng sáng,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,To,Đen,Trắng sáng,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,Trắng,Thấp,Xoăn,Dày,Thưa,A
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,Trắng sáng,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,Vừa,Đen,Nâu Sậm,Thấp,Xoăn,Mỏng,Rậm,Phi
+Đen,Vừa,Đen,Trắng sáng,Cao,Xoăn,Vừa,Rậm,Au
+Đen,To,Vàng,Trắng,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,Nâu Sậm,Cao,Xoăn,Dày,Thưa,Phi
+Đen,To,Đen,Trắng,Cao,Lượn sóng,Dày,Rậm,Au
+Lam,Nhỏ,Đen,Trắng sáng,Cao,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,Nâu Sậm,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,To,Đen,Nâu Vàng,Thấp,Thẳng,Dày,Rậm,A
+Đỏ,Nhỏ,Đen,Nâu Vàng,Thấp,Thẳng,Mỏng,Rậm,Au
+Đen,To,Đen,23,Thấp,Lượn sóng,Vừa,Thưa,A
+Đỏ,Nhỏ,Vàng,12,Thấp,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,32,Cao,Lượn sóng,Mỏng,Thưa,Uc
+Đen,Nhỏ,Đen,18,Cao,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,10,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,22,Cao,Thẳng,Mỏng,Thưa,A
+Lam,Nhỏ,Đen,7,Cao,Lượn sóng,Mỏng,Rậm,Au
+Xám,Vừa,Đen,7,Cao,Thẳng,Dày,Rậm,Au
+Đen,To,Đen,6,Cao,Lượn sóng,Dày,Thưa,Au
+Đen,To,Vàng,35,Thấp,Thẳng,Vừa,Rậm,Au
+Xám,Nhỏ,Đen,11,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,To,Đen,24,Thấp,Lượn sóng,Mỏng,Rậm,A
+Đen,Nhỏ,Đỏ,15,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,14,Cao,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,20,Cao,Thẳng,Mỏng,Thưa,A
+Đen,Nhỏ,Đen,19,Cao,Lượn sóng,Vừa,Rậm,A
+Lam,Vừa,Đen,20,Cao,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,11,Cao,Xoăn,Mỏng,Thưa,A
+Đen,To,Đen,35,Thấp,Thẳng,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,4,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Vừa,Vàng,19,Cao,Thẳng,Dày,Rậm,Au
+Đen,Nhỏ,Vàng,28,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,17,Thấp,Xoăn,Mỏng,Rậm,A
+Đen,To,Đỏ,12,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,3,Cao,Thẳng,Vừa,Thưa,Au
+Lam,Nhỏ,Đen,6,Cao,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,12,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,12,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,To,Vàng,13,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,32,Thấp,Thẳng,Mỏng,Rậm,A
+Đen,To,Vàng,20,Cao,Thẳng,Dày,Thưa,Au
+Đen,To,Đen,13,Cao,Lượn sóng,Vừa,Thưa,A
+Đen,To,Đen,9,Thấp,Xoăn,Mỏng,Thưa,Au
+Đen,Nhỏ,Vàng,20,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,23,Cao,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,15,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,24,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,To,Đen,21,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,8,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Vừa,Đen,16,Thấp,Xoăn,Mỏng,Thưa,A
+Xám,To,Vàng,22,Thấp,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,23,Thấp,Xoăn,Dày,Thưa,A
+Đen,To,Đen,35,Cao,Lượn sóng,Vừa,Thưa,Phi
+Lục,To,Đen,8,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,5,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,15,Thấp,Thẳng,Dày,Rậm,A
+Đen,Nhỏ,Đỏ,29,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Lam,Nhỏ,Đen,2,Cao,Thẳng,Dày,Rậm,Au
+Đen,To,Đỏ,10,Thấp,Thẳng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,20,Thấp,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Vàng,8,Cao,Lượn sóng,Mỏng,Rậm,Au
+Đen,Vừa,Đen,22,Cao,Xoăn,Vừa,Rậm,A
+Đen,Nhỏ,Đen,3,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,31,Cao,Thẳng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,1,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,27,Cao,Thẳng,Dày,Thưa,Au
+Tím,To,Vàng,14,Cao,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,30,Thấp,Thẳng,Mỏng,Thưa,A
+Đen,To,Đen,19,Cao,Thẳng,Mỏng,Thưa,A
+Đen,Vừa,Vàng,28,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,2,Cao,Lượn sóng,Mỏng,Thưa,Au
+Đen,Nhỏ,Vàng,18,Thấp,Lượn sóng,Mỏng,Thưa,Au
+Xám,Vừa,Vàng,22,Cao,Thẳng,Mỏng,Rậm,Au
+Xám,Nhỏ,Đen,13,Thấp,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,8,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Vàng,14,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Vàng,14,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Vừa,Đen,24,Cao,Lượn sóng,Mỏng,Rậm,A
+Đen,To,Vàng,23,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,To,Vàng,21,Cao,Thẳng,Dày,Thưa,Au
+Đen,Nhỏ,Đen,17,Cao,Thẳng,Mỏng,Rậm,A
+Đen,To,Đen,15,Cao,Thẳng,Dày,Rậm,Au
+Đen,Vừa,Đen,14,Thấp,Lượn sóng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,9,Cao,Thẳng,Vừa,Rậm,Au
+Đen,To,Vàng,32,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,To,Đen,23,Cao,Xoăn,Vừa,Thưa,A
+Đen,To,Vàng,16,Thấp,Thẳng,Dày,Thưa,Au
+Đen,To,Đen,17,Thấp,Xoăn,Vừa,Thưa,A
+Vàng,Nhỏ,Đen,8,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,21,Cao,Lượn sóng,Mỏng,Thưa,A
+Đen,Nhỏ,Vàng,35,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,Vừa,Đen,12,Thấp,Lượn sóng,Dày,Rậm,A
+Đen,To,Đen,34,Thấp,Xoăn,Vừa,Rậm,Uc
+Đen,Nhỏ,Đen,6,Cao,Thẳng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đỏ,10,Thấp,Thẳng,Mỏng,Thưa,Au
+Lam,Nhỏ,Vàng,24,Cao,Thẳng,Vừa,Rậm,Au
+Xám,Nhỏ,Vàng,26,Thấp,Thẳng,Dày,Rậm,Au
+Đen,Vừa,Đen,24,Cao,Lượn sóng,Vừa,Thưa,A
+Lam,To,Đen,24,Thấp,Thẳng,Vừa,Thưa,Au
+Xám,To,Đỏ,19,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,22,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,4,Cao,Xoăn,Mỏng,Thưa,Au
+Đen,Vừa,Đen,7,Thấp,Xoăn,Vừa,Thưa,Au
+Đen,To,Đen,19,Thấp,Lượn sóng,Dày,Thưa,A
+Đen,To,Đen,32,Cao,Thẳng,Dày,Rậm,Phi
+Đen,Nhỏ,Đen,20,Thấp,Lượn sóng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,14,Cao,Xoăn,Dày,Thưa,A
+Xám,Nhỏ,Đen,17,Thấp,Thẳng,Dày,Rậm,Au
+Dị sấc,Vừa,Đen,22,Thấp,Xoăn,Dày,Rậm,Au
+Đen,Nhỏ,Đen,12,Thấp,Thẳng,Vừa,Thưa,A
+Lam,To,Đen,14,Cao,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,7,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,To,Đen,20,Cao,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,9,Cao,Xoăn,Dày,Thưa,Au
+Xám,Nhỏ,Đen,9,Cao,Thẳng,Mỏng,Thưa,Au
+Lam,Nhỏ,Đen,28,Thấp,Lượn sóng,Dày,Thưa,Au
+Vàng,Vừa,Vàng,20,Cao,Thẳng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,12,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,17,Thấp,Xoăn,Vừa,Rậm,A
+Đen,To,Vàng,26,Thấp,Thẳng,Dày,Thưa,Au
+Đen,To,Đen,29,Thấp,Thẳng,Mỏng,Thưa,Phi
+Đen,Nhỏ,Đen,29,Thấp,Xoăn,Mỏng,Rậm,Phi
+Đen,Nhỏ,Vàng,13,Thấp,Xoăn,Mỏng,Rậm,Au
+Đen,To,Đen,18,Thấp,Thẳng,Mỏng,Rậm,A
+Xám,To,Đỏ,16,Cao,Xoăn,Dày,Thưa,Au
+Đen,To,Đen,25,Thấp,Lượn sóng,Vừa,Rậm,A
+Đen,Nhỏ,Vàng,8,Cao,Lượn sóng,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,18,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,19,Thấp,Xoăn,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,8,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Lam,To,Vàng,11,Thấp,Thẳng,Dày,Thưa,Au
+Đen,To,Đen,34,Cao,Thẳng,Vừa,Rậm,Uc
+Đen,To,Đen,19,Thấp,Xoăn,Vừa,Rậm,A
+Đen,To,Đen,20,Cao,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,4,Cao,Xoăn,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,28,Cao,Thẳng,Vừa,Thưa,A
+Đen,To,Đen,22,Cao,Thẳng,Vừa,Thưa,A
+Đen,Nhỏ,Đen,24,Thấp,Xoăn,Vừa,Thưa,A
+Đen,To,Đen,14,Thấp,Thẳng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,23,Cao,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,23,Thấp,Thẳng,Vừa,Rậm,A
+Dị sấc,To,Đen,28,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,20,Thấp,Xoăn,Vừa,Rậm,A
+Lam,To,Đen,15,Cao,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Đen,10,Cao,Thẳng,Mỏng,Thưa,A
+Lam,To,Vàng,9,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,To,Đen,24,Cao,Lượn sóng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,17,Thấp,Lượn sóng,Mỏng,Rậm,A
+Lam,Nhỏ,Đen,11,Cao,Thẳng,Vừa,Rậm,Au
+Vàng,To,Đen,16,Thấp,Thẳng,Vừa,Rậm,Au
+Đen,To,Đen,9,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,26,Thấp,Xoăn,Dày,Thưa,A
+Đen,To,Đen,2,Cao,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Đen,22,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,Vừa,Vàng,13,Thấp,Thẳng,Dày,Rậm,Au
+Lam,Vừa,Đen,12,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Vừa,Vàng,11,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,25,Thấp,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,29,Cao,Lượn sóng,Dày,Thưa,Phi
+Đen,Nhỏ,Đen,19,Cao,Thẳng,Vừa,Rậm,A
+Đen,To,Đen,35,Cao,Xoăn,Vừa,Thưa,Phi
+Đen,Nhỏ,Đen,16,Thấp,Thẳng,Vừa,Rậm,A
+Đen,Nhỏ,Đen,6,Cao,Xoăn,Vừa,Rậm,Au
+Đen,To,Vàng,21,Thấp,Lượn sóng,Dày,Rậm,Au
+Đen,Nhỏ,Vàng,28,Cao,Xoăn,Mỏng,Rậm,Au
+Đen,Nhỏ,Vàng,19,Thấp,Xoăn,Vừa,Thưa,Au
+Xám,Nhỏ,Vàng,8,Thấp,Thẳng,Vừa,Thưa,Au
+Đen,Nhỏ,Đen,6,Cao,Thẳng,Mỏng,Thưa,Au
+Đen,Nhỏ,Đen,12,Thấp,Xoăn,Vừa,Thưa,A
+Đen,Vừa,Vàng,12,Thấp,Lượn sóng,Mỏng,Rậm,Au
+Đen,Nhỏ,Vàng,5,Thấp,Lượn sóng,Vừa,Thưa,Au
+Đen,To,Đen,18,Thấp,Lượn sóng,Vừa,Thưa,A
+Đen,To,Vàng,13,Cao,Xoăn,Dày,Rậm,Au
+Đen,To,Đen,26,Thấp,Lượn sóng,Dày,Rậm,Uc
+Đen,Nhỏ,Đen,19,Cao,Thẳng,Dày,Rậm,A
+Đen,To,Đen,12,Cao,Xoăn,Vừa,Rậm,Au
+Đen,Nhỏ,Đen,27,Thấp,Thẳng,Mỏng,Rậm,A
+Đen,Nhỏ,Đen,29,Thấp,Lượn sóng,Mỏng,Rậm,Uc
+Đen,To,Vàng,7,Thấp,Lượn sóng,Vừa,Rậm,Au
+Đen,To,Đen,25,Cao,Lượn sóng,Dày,Rậm,Uc
