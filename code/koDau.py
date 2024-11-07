@@ -3,7 +3,7 @@ import random
 import re
 import sys
 
-f = open('dataTongHop.csv', 'r', encoding='UTF-8')
+f = open('../thuoctinh.csv', 'r', encoding='UTF-8')
 
 text=f.read()
 

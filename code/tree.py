@@ -4,7 +4,7 @@ df = pd.read_csv('dataSinhv3.csv')
 
 #1:,2:,3:Au,4
 
-for i in range(0, 2999):
+for i in range(0, 299):
 #mat
     if df.iloc[i, 0] != 'Đen':
         df.iloc[i, 9] = "Au"
