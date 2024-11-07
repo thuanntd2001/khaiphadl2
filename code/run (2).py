@@ -53,20 +53,19 @@ lstChuyenNganh= ['He thong thong tin',' Cong nghe phan mem',' Khoa hoc may tinh'
 
 
 records = []
-for i in range(300):
+for i in range(2000):
     record = { 'So tin chi':'', 'Ty le thuc hanh':'', 'Ky thuat':'', 'Phan tich':''
             , 'Thiet ke':'','Ky nang nhom':'','Diem chuyen can':'','Diem tong ket':'',  'Chuyen nganh':''}
    
-    record['So tin chi']=(choose2(lstSoTinChi, 15, 35,35,15))
+    record['So tin chi']=(choose2(lstSoTinChi, 5, 35,35,25))
     record['Ty le thuc hanh']=(choose2(lstTyLeThucHanh, 20,60,20))
-    #record['Màu Da']=(int(np.random.normal(24,5, 1)))
-    #record['Màu Da']=(choose2(lstMauDa, 5,20,35,40))
-    record['Ky thuat']=(choose2(lstKyThuat,25,25,25,25))
+ 
+    record['Ky thuat']=(choose2(lstKyThuat,40,40,10,10))
 
     record['Phan tich']=(choose2(lstPhanTich,25, 25,25,25))
-    record['Thiet ke']=(choose2(lstThietKe, 25, 25,25,25))
+    record['Thiet ke']=(choose2(lstThietKe, 5, 15,45,35))
     record['Ky nang nhom']=(choose2(lstKyNangNhom, 25, 25,25,25))
-    record['Diem chuyen can']=(choose2(lstDiemChuyenCan, 10,30,60))
+    record['Diem chuyen can']=(choose2(lstDiemChuyenCan, 30,30,40))
     record['Diem tong ket']=(choose2(lstDiemTongKet, 30,40,30))
 
     record['Chuyen nganh']=''

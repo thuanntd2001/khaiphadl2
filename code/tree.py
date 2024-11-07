@@ -1,41 +1,49 @@
 import pandas as pd
 import random
-df = pd.read_csv('dataSinhv3.csv')
+df = pd.read_csv('dataSinhv2.csv')
 
-#1:,2:,3:Au,4
-
-for i in range(0, 299):
-#mat
-    if df.iloc[i, 0] != 'Đen':
-        df.iloc[i, 9] = "Au"
-    else:
-#toc
-        if df.iloc[i, 2] != 'Đen':
-            df.iloc[i, 9] = "Au"
+'''
+0So tin chi: tu 1 den 4
+1Ty le thuc hanh: thap TB cao
+2Ky thuat: ABCD
+3Phan tich: ABCD
+4Thiet ke: ABCD
+5Ky nang nhom: ABCD
+6Diem chuyen can: thap TB cao
+7Diem tong ket: thap TB cao
+8Chuyen nganh: He thong thong tin, Cong nghe phan mem, Khoa hoc may tinh, Mang may tinh va truyen thong
+'''
+for i in range(0, 1999):
+#Diem chuyen can thap
+    if df.iloc[i, 6] != 'thap':
+        if int(df.iloc[i, 0]) < 3:
+            df.iloc[i, 8] = "HTTT"
         else:
-            if df.iloc[i, 3] == "Trắng Sáng":
-                df.iloc[i, 9] = "Au"
-            elif df.iloc[i, 3] == "Trắng Vàng":
-                if df.iloc[i, 7] == 'Rậm' and  df.iloc[i, 4] == 'Cao':
-                    df.iloc[i, 9] = "Au"
-                else:
-                    df.iloc[i, 9] = "A"
-            elif df.iloc[i, 3] =="Nâu Vừa":
-                if df.iloc[i, 5] == 'Lượn sóng':
-                    df.iloc[i, 9] = "Uc"
-                elif df.iloc[i, 2] == 'Nhỏ' :
-                    df.iloc[i, 9] = "A"
-                elif df.iloc[i, 7] == 'Thưa':
-                    df.iloc[i, 9] = "A"
-                elif df.iloc[i, 4] == 'Thấp':
-                    df.iloc[i, 9] = "A"
-                else:
-                    df.iloc[i, 9] = "Uc"
+            if df.iloc[i, 1] == "cao":
+                df.iloc[i, 8] = "CNPM"
+            else: 
+                df.iloc[i, 8] = "HTTT"
+
+#Diem chuyen can cao
+    else:
+        if df.iloc[i, 7] != 'thap':
+            if df.iloc[i, 1] == "cao":
+                df.iloc[i, 8] = "CNPM"
+            else: 
+                df.iloc[i, 8] = "HTTT"            
+        else:
+            if (df.iloc[i, 2] == "A" or df.iloc[i, 2] == "B"):
+                df.iloc[i, 8] = "CNPM"
+            elif df.iloc[i, 2] == "D":
+                df.iloc[i, 8] = "HTTT"
             else:
-            
-                if df.iloc[i, 7] == 'Rậm' and df.iloc[i, 5] == 'Lượn sóng':
-                    df.iloc[i, 9] = "Uc"
-                else:
-                    df.iloc[i, 9] = "Phi"
+                if df.iloc[i, 4] != "D":
+                    df.iloc[i, 8] = "HTTT"
+                elif df.iloc[i, 3] != "D":
+                    df.iloc[i, 8] = "HTTT"
+                elif df.iloc[i, 5] == "D":
+                    df.iloc[i, 8] = "HTTT"
+                else :
+                    df.iloc[i, 8] = "CNPM"
            
 df.to_csv('500_dong_tree/data.csv', encoding='utf-8', index=False)
