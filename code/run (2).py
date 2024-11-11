@@ -30,7 +30,6 @@ def Thuchanh(a):
         return 'cao'    
 '''
 So tin chi: tu 1 den 4
-Ty le ly thuyet: thap TB cao
 Ty le thuc hanh: thap TB cao
 Ky thuat: ABCD
 Phan tich: ABCD
@@ -41,7 +40,6 @@ Diem tong ket: thap TB cao
 Chuyen nganh: He thong thong tin, Cong nghe phan mem, Khoa hoc may tinh, Mang may tinh va truyen thong
 '''
 lstSoTinChi= ['1','2','3','4']
-lstTyLeLyThuyet= ['thap','TB','cao']
 lstTyLeThucHanh= ['thap','TB','cao']
 lstKyThuat= ['A','B','C','D']
 lstPhanTich= ['A','B','C','D']

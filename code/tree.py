@@ -13,13 +13,14 @@ df = pd.read_csv('dataSinhv2.csv')
 7Diem tong ket: thap TB cao
 8Chuyen nganh: He thong thong tin, Cong nghe phan mem, Khoa hoc may tinh, Mang may tinh va truyen thong
 '''
+CN_list = ["CNPM", "HTTT"]
 for i in range(0, 1999):
 #Diem chuyen can thap
     if df.iloc[i, 6] != 'thap':
-        if int(df.iloc[i, 0]) < 3:
-            df.iloc[i, 8] = "HTTT"
+        if df.iloc[i, 0] == '1':
+            df.iloc[i, 8] = CN_list[random.randint(0, 1)]
         else:
-            if df.iloc[i, 1] == "cao":
+            if df.iloc[i, 1] == "cao" or df.iloc[i, 1] == "TB":
                 df.iloc[i, 8] = "CNPM"
             else: 
                 df.iloc[i, 8] = "HTTT"
