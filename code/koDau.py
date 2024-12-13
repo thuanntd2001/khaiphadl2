@@ -3,12 +3,12 @@ import random
 import re
 import sys
 
-f = open('../thuoctinh.csv', 'r', encoding='UTF-8')
+f = open('../ChuongTrinhDaoTao.csv', 'r', encoding='UTF-8')
 
 text=f.read()
 
 f.close()
-f = open('dataTongHop(khongDau).csv', 'w')
+f = open('ctdtkhongdau.csv', 'w')
 
 patterns = {
     '[àáảãạăắằẵặẳâầấậẫẩ]': 'a',
